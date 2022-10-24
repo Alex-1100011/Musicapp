@@ -21,4 +21,3 @@ Everything is created using **Swift, SwiftUI,** and **AVFoundation**; and the au
 
 https://user-images.githubusercontent.com/49677462/197556840-fc108c5c-16d6-446e-93a8-2dc21301f3cd.mov
 
-![image](https://user-images.githubusercontent.com/49677462/197564049-78653897-1e5d-48c6-89d1-c31be3fc26bd.png)
